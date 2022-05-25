@@ -10,5 +10,4 @@ setup(
         description='Functions for analysis of MgII halos',
         packages=find_packages(),
         install_requires=['h5py', 'numpy', 'matplotlib', 'scipy', 'astropy'], 
-        ]
-)
+        )
